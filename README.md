@@ -1,2 +1,2 @@
-# number-guessing-game
-CLI игра в угадывание чисел
+# CLI игра в угадывание чисел
+https://roadmap.sh/projects/number-guessing-game
